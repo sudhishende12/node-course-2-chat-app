@@ -5,6 +5,8 @@
         <group>
             <file>file:/C:/Users/Administrator/Desktop/node-chat-app/public/index.html</file>
             <file>file:/C:/Users/Administrator/Desktop/node-chat-app/public/js/index.js</file>
+            <file>file:/C:/Users/Administrator/Desktop/node-chat-app/server/utils/message.test.js</file>
+            <file>file:/C:/Users/Administrator/Desktop/node-chat-app/server/utils/message.js</file>
             <file>file:/C:/Users/Administrator/Desktop/node-chat-app/server/server.js</file>
         </group>
     </open-files>
